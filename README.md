@@ -129,6 +129,9 @@ dim_country ─────► fact_job_postings ◄───── dim_platform
                          ▼
                      dim_skill
 ```
+<p align="center">
+  <img src="dashboard\Screenshot 2026-09-21 160305.png" alt="AI Job Market Analyzer Dashboard" width="100%">
+</p>
 
 This structure makes the data easier to query, analyze, and visualize.
 
