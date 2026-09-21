@@ -1,0 +1,27 @@
+skill_id ,skill
+1,AWS
+2,Airflow
+3,Azure
+4,BigQuery
+5,Data Engineering
+6,Data Visualization
+7,Deep Learning
+8,ETL
+9,Excel
+10,GCP
+11,Kafka
+12,Machine Learning
+13,NLP
+14,NumPy
+15,Pandas
+16,Power BI
+17,PyTorch
+18,Python
+19,Redshift
+20,SQL
+21,Snowflake
+22,Spark
+23,Statistics
+24,Tableau
+25,TensorFlow
+26,dbt
