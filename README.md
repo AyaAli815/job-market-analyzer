@@ -256,20 +256,14 @@ The project includes an interactive **Power BI Dashboard** designed to analyze j
 * Average Salary
 * Average Applicants
 * % Remote Jobs
-* Number of Skills
-* Number of Companies
+
 
 ### Visualizations
 
-* Job demand by experience level
-* Top job titles
-* Most demanded skills
-* Average salary by experience level
-* Average salary by country
-* Remote vs Hybrid vs Onsite jobs
-* Job postings by company
-* Job postings by platform
-* Skill-related analysis
+* Top 5 in-demand skills
+* Jobs by region
+* Job distribution by experience level
+* Job distribution by employment type
 
 The dashboard allows users to explore the data through interactive **filters and slicers**.
 
